@@ -1,0 +1,56 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "WSOPENae", "http://localhost/WSOPENae/WSOPENae.vbproj", "{1E7E7794-16AE-4BBE-9111-CF98FECE784F}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "GestDatiOPENae", "..\..\..\OPEN_ClientServer\VS .NET 2003\Codice Motore OPENae\Codice GestDatiOPENae\GestDatiOPENae.vbproj", "{BF123254-6AD9-4405-8B35-B4B17F1B9EE8}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "AgenziaEntrateDLL", "..\..\..\OPEN_ClientServer\VS .NET 2003\Codice Motore OPENae\Codice DLL_AgenziaEntrate\AgenziaEntrateDLL.vbproj", "{578B50B6-E6DE-4755-91F8-39387F933690}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 3
+		SccProjectUniqueName0 = http://localhost/WSOPENae/WSOPENae.vbproj
+		SccProjectName0 = \u0022$/Agenzia_Entrate/WSOPENae\u0022,\u0020BAVBAAAA
+		SccLocalPath0 = .
+		SccProvider0 = MSSCCI:Microsoft\u0020Visual\u0020SourceSafe
+		CanCheckoutShared = false
+		SccProjectEnlistmentChoice0 = 2
+		SccProjectUniqueName1 = ..\\..\\..\\OPEN_ClientServer\\VS\u0020.NET\u00202003\\Codice\u0020Motore\u0020OPENae\\Codice\u0020GestDatiOPENae\\GestDatiOPENae.vbproj
+		SccProjectName1 = \u0022$/Agenzia_Entrate/Motore\u0020OPENae/GestDatiOPENae\u0022,\u0020GKWBAAAA
+		SccLocalPath1 = ..\\..\\..\\OPEN_ClientServer\\VS\u0020.NET\u00202003\\Codice\u0020Motore\u0020OPENae\\Codice\u0020GestDatiOPENae
+		SccProvider1 = MSSCCI:Microsoft\u0020Visual\u0020SourceSafe
+		CanCheckoutShared = false
+		SccProjectUniqueName2 = ..\\..\\..\\OPEN_ClientServer\\VS\u0020.NET\u00202003\\Codice\u0020Motore\u0020OPENae\\Codice\u0020DLL_AgenziaEntrate\\AgenziaEntrateDLL.vbproj
+		SccProjectName2 = \u0022$/Agenzia_Entrate/AgenziaEntrateDLL\u0022,\u0020MBVBAAAA
+		SccLocalPath2 = ..\\..\\..\\OPEN_ClientServer\\VS\u0020.NET\u00202003\\Codice\u0020Motore\u0020OPENae\\Codice\u0020DLL_AgenziaEntrate
+		SccProvider2 = MSSCCI:Microsoft\u0020Visual\u0020SourceSafe
+		CanCheckoutShared = false
+	EndGlobalSection
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{1E7E7794-16AE-4BBE-9111-CF98FECE784F}.Debug.ActiveCfg = Debug|.NET
+		{1E7E7794-16AE-4BBE-9111-CF98FECE784F}.Debug.Build.0 = Debug|.NET
+		{1E7E7794-16AE-4BBE-9111-CF98FECE784F}.Release.ActiveCfg = Release|.NET
+		{1E7E7794-16AE-4BBE-9111-CF98FECE784F}.Release.Build.0 = Release|.NET
+		{BF123254-6AD9-4405-8B35-B4B17F1B9EE8}.Debug.ActiveCfg = Debug|.NET
+		{BF123254-6AD9-4405-8B35-B4B17F1B9EE8}.Debug.Build.0 = Debug|.NET
+		{BF123254-6AD9-4405-8B35-B4B17F1B9EE8}.Release.ActiveCfg = Release|.NET
+		{BF123254-6AD9-4405-8B35-B4B17F1B9EE8}.Release.Build.0 = Release|.NET
+		{578B50B6-E6DE-4755-91F8-39387F933690}.Debug.ActiveCfg = Debug|.NET
+		{578B50B6-E6DE-4755-91F8-39387F933690}.Debug.Build.0 = Debug|.NET
+		{578B50B6-E6DE-4755-91F8-39387F933690}.Release.ActiveCfg = Release|.NET
+		{578B50B6-E6DE-4755-91F8-39387F933690}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
